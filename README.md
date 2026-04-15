@@ -1,6 +1,6 @@
 # Hey, I'm Arnav Goel 👋
 
-CS undergrad @ K.R. Mangalam University · Full-Stack & Web3 Developer · New Delhi, India
+CS undergrad @ K.R. Mangalam University · Full-Stack Developer & Problem Solver · New Delhi, India
 
 ---
 
