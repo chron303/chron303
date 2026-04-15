@@ -7,7 +7,7 @@ CS undergrad @ K.R. Mangalam University · Full-Stack Developer & Problem Solver
 ### 🔭 What I'm building
 
 - **[WitsVerse](https://www.witsverse.com)** — Real-time Web3 strategy games on Polygon blockchain (React, Solidity, AWS Lambda)
-- **Vestra** — AI-powered outfit planning mobile app (React Native, Firebase, Claude AI, FastAPI)
+- **[Vestra](https://drive.google.com/uc?export=download&id=1fJvke2bXoLJnPby6nvFH4iw2e0fMow5p)** — AI-powered outfit planning mobile app (React Native, Firebase, Claude AI, FastAPI)
 
 ---
 
@@ -54,7 +54,7 @@ CS undergrad @ K.R. Mangalam University · Full-Stack Developer & Problem Solver
 | Project | Description | Tech |
 |---|---|---|
 | [WitsVerse](https://www.witsverse.com) | Web3 real-time strategy games on Polygon | React, Solidity, AWS Lambda, MetaMask |
-| Vestra | AI outfit planner mobile app | React Native, Claude AI, Firebase, FastAPI |
+| [Vestra](https://www.github.com/projectvestra/vestra) | AI outfit planner mobile app | React Native, Claude AI, Firebase, FastAPI |
 | [AQI Tracker](https://github.com/chron303/AQI-tracker) | Real-time air quality index web app | HTML, CSS, JavaScript |
 
 ---
