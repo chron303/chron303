@@ -44,8 +44,8 @@ CS undergrad @ K.R. Mangalam University · Full-Stack Developer & Problem Solver
 
 ### 📊 Competitive Programming
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Rating%201589-FFA116?logo=leetcode&logoColor=white&style=flat-square)](https://leetcode.com/u/Arnav_Goel_303/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Rating%20882-1F8ACB?logo=codeforces&logoColor=white&style=flat-square)](https://codeforces.com/profile/goelarnav30)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Rating%201588-FFA116?logo=leetcode&logoColor=white&style=flat-square)](https://leetcode.com/u/Arnav_Goel_303/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Rating%20950-1F8ACB?logo=codeforces&logoColor=white&style=flat-square)](https://codeforces.com/profile/goelarnav30)
 
 ---
 
