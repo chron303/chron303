@@ -1,8 +1,8 @@
-# Hey, I'm Arnav Goel 👋
+# Hey👋
 
-CS undergrad @ K.R. Mangalam University · Full-Stack Developer & Problem Solver · New Delhi, India
+CS undergrad · Full-Stack Developer & Problem Solver · New Delhi, India
 
----
+--- 
 
 ### 🔭 What I'm building
 
@@ -59,13 +59,6 @@ CS undergrad @ K.R. Mangalam University · Full-Stack Developer & Problem Solver
 
 ---
 
-### 🎓 Education & Certifications
-
-- B.Tech Computer Science · K.R. Mangalam University · CGPA 8.18 · 2023–2027
-- Microsoft Certified: Fundamentals of AI and ML (2024)
-- C++ · Data Structures and Algorithms (Udemy)
-
----
 
 ### 📫 Let's connect
 
