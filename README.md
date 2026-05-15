@@ -1,4 +1,4 @@
-# Hey👋
+# Hey, I am Arnav Goel👋
 
 CS undergrad · Full-Stack Developer & Problem Solver · New Delhi, India
 
